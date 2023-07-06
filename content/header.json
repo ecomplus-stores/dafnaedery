@@ -1,17 +1,23 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Envio para Todo Brasil | Para São Paulo -SP frete grátis a partir de R$400 , veja mais promoções ativas.",
+    "link": "/frete",
+    "background": "#afafaf",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Sua Conta | Cadastre-se ",
+        "link": "/app/#/account/"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Ver Pedidos",
+        "link": "/app/#/account/orders"
+      },
+      {
+        "title": "Como Comprar",
+        "link": "https://www.minascristais.com.br/pages/faq"
       }
     ],
     "phone_wpp": true,
@@ -23,8 +29,8 @@
     "full_width": false
   },
   "centralized_logo": false,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
