@@ -24,9 +24,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/dafna_edery?Dafna Edery"
-    ],
+    "featured": [],
     "random": 6,
     "full_width": true
   },
