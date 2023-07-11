@@ -6,20 +6,7 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sua Conta | Cadastre-se ",
-        "link": "/app/#/account/"
-      },
-      {
-        "title": "Ver Pedidos",
-        "link": "/app/#/account/orders"
-      },
-      {
-        "title": "Como Comprar",
-        "link": "https://dafnaedery.netlify.app/pages/faq"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
