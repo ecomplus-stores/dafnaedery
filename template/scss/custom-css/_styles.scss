@@ -1,1 +1,7 @@
 // Add your custom CSS here.
+@media(max-width: 767px) {
+    .banners-grid .col-12. {
+    max-width: 50%;
+    flex: 0 0 50%;
+  }
+}
