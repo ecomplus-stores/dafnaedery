@@ -3,21 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "img": "/img/uploads/slide.png",
-          "link": "",
-          "alt": "",
-          "start": "2023-07-11T14:11:46.729Z",
-          "end": "",
-          "mobile_img": "/img/uploads/slide-mobile.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
