@@ -26,7 +26,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "centralized_logo": true,
   "desktop_megamenu": true,
