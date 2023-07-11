@@ -1,0 +1,28 @@
+{
+  "title": "SALE",
+  "body": "C﻿onfira as Ofertas da Dafna Edery",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/frete.png",
+      "mobile_img": "/img/uploads/fretemobile.png"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
