@@ -92,9 +92,25 @@
       "mobile_img": "/img/uploads/fretemobile.png"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "views"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__acess.webp",
+          "link": "https://dafnaedery.netlify.app/acessorios/"
+        },
+        {
+          "img": "/img/uploads/bb.png",
+          "link": "https://dafnaedery.netlify.app/bolsas/"
+        },
+        {
+          "img": "/img/uploads/__presente.webp",
+          "link": "https://dafnaedery.netlify.app/presentes"
+        },
+        {
+          "img": "/img/uploads/__pintura.webp",
+          "link": "https://dafnaedery.netlify.app/pintura-manual/"
+        }
+      ]
     },
     {
       "type": "info-bar",
