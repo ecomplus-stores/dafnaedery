@@ -3,6 +3,32 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/carteiras-dafna-banner.png",
+          "link": "https://dafnaedery.netlify.app/dafna_edery"
+        },
+        {
+          "img": "/img/uploads/agendadeeventos.png",
+          "link": "https://dafnaedery.netlify.app/pages/agendaeventos"
+        },
+        {
+          "img": "/img/uploads/sale.png",
+          "link": "https://dafnaedery.netlify.app/pages/sale"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
