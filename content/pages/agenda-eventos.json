@@ -1,0 +1,37 @@
+{
+  "title": "Agenda Eventos",
+  "body": "A﻿companhe os eventos que vem por aí. \n\nT﻿e esperamos por lá também :)",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/346347452_830674371818569_1807864286501594730_n.jpeg"
+        },
+        {
+          "img": "/img/uploads/351045168_265307716070127_534663702512192904_n.jpeg"
+        },
+        {
+          "img": "/img/uploads/337371531_897390284804619_7386424431816255570_n.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
