@@ -18,6 +18,23 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__carteira-bicolor.webp"
+        },
+        {
+          "img": "/img/uploads/__carteira-compacta.webp"
+        },
+        {
+          "img": "/img/uploads/__carteira-doc.webp"
+        },
+        {
+          "img": "/img/uploads/__carteira-petit.webp"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "Os queridinhos",
       "shuffle": true,
@@ -25,8 +42,25 @@
       "type": "collection-shelf",
       "link": "https://dafnaedery.netlify.app/dafna_edery",
       "limit": 12,
-      "collection_id": "64a88a705e6069037059806c:brands:Dafna Edery:/dafna_edery",
+      "collection_id": "64ad6e065e606903705eab18:categories:Carteira Slim:/carteiras-slim",
       "sort": "views"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__carteira-ziper.webp"
+        },
+        {
+          "img": "/img/uploads/__carteira-pocket.webp"
+        },
+        {
+          "img": "/img/uploads/__carteira-portrait.webp"
+        },
+        {
+          "img": "/img/uploads/carteiras-dafna-pintura-manual-banner.png"
+        }
+      ]
     },
     {
       "type": "responsive-banner",
@@ -34,43 +68,9 @@
       "mobile_img": "/img/uploads/fretemobile.png"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/carteiras-dafna-banner.png"
-        },
-        {
-          "img": "/img/uploads/presentes.png"
-        },
-        {
-          "img": "/img/uploads/slim.png"
-        },
-        {
-          "img": "/img/uploads/agendadeeventos.png"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios.png"
-        },
-        {
-          "img": "/img/uploads/bolsas.png"
-        },
-        {
-          "img": "/img/uploads/sale.png"
-        },
-        {
-          "img": "/img/uploads/carteiras-dafna-pintura-manual-banner.png"
-        }
-      ]
     },
     {
       "type": "info-bar",
