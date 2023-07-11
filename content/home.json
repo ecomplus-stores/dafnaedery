@@ -45,8 +45,9 @@
       "page": 1
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "responsive-banner",
+      "img": "/img/uploads/frete.png",
+      "mobile_img": "/img/uploads/fretemobile.png"
     },
     {
       "type": "banners-grid",
@@ -71,9 +72,8 @@
       "sort": "views"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/frete.png",
-      "mobile_img": "/img/uploads/fretemobile.png"
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
