@@ -18,6 +18,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -111,10 +115,6 @@
           "link": "https://dafnaedery.netlify.app/pintura-manual/"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
