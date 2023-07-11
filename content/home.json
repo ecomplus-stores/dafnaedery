@@ -43,11 +43,11 @@
     },
     {
       "page": 1,
-      "title": "Os queridinhos",
+      "title": "Carteiras Pequenas",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://dafnaedery.netlify.app/dafna_edery",
+      "link": "https://dafnaedery.netlify.app/carteiras-pequenas",
       "limit": 12,
       "collection_id": "64ad6e295e606903705eab8a:categories:Carteiras Pequenas:/carteiras-pequenas",
       "sort": "views"
@@ -79,7 +79,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64ad6e365e606903705eaba1:categories:Carteiras Médias:/carteiras-medias",
-      "sort": "views"
+      "sort": "views",
+      "title": "Carteiras Médias",
+      "link": "https://dafnaedery.netlify.app/carteiras-medias"
     },
     {
       "type": "collection-shelf",
@@ -87,7 +89,9 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64ad6e425e606903705eabb9:categories:Carteiras Grandes:/carteiras-grandes",
-      "sort": "views"
+      "sort": "views",
+      "title": "Carteiras Grandes",
+      "link": "https://dafnaedery.netlify.app/carteiras-pequenas#a-carteiras-grandes"
     },
     {
       "type": "responsive-banner",
