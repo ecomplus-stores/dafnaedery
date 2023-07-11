@@ -8,7 +8,7 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/346347452_830674371818569_1807864286501594730_n.jpeg",
+          "img": "/img/uploads/slide.png",
           "link": "",
           "alt": "",
           "start": "2023-07-11T14:11:46.729Z",
@@ -21,16 +21,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__carteira-bicolor.webp"
+          "img": "/img/uploads/__carteira-bicolor.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-bicolor"
         },
         {
-          "img": "/img/uploads/__carteira-compacta.webp"
+          "img": "/img/uploads/__carteira-compacta.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-compacta"
         },
         {
-          "img": "/img/uploads/__carteira-doc.webp"
+          "img": "/img/uploads/__carteira-doc.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-doc"
         },
         {
-          "img": "/img/uploads/__carteira-petit.webp"
+          "img": "/img/uploads/__carteira-petit.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-petit"
         }
       ]
     },
@@ -42,25 +46,45 @@
       "type": "collection-shelf",
       "link": "https://dafnaedery.netlify.app/dafna_edery",
       "limit": 12,
-      "collection_id": "64ad6e065e606903705eab18:categories:Carteira Slim:/carteiras-slim",
+      "collection_id": "64ad6e295e606903705eab8a:categories:Carteiras Pequenas:/carteiras-pequenas",
       "sort": "views"
     },
     {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__carteira-ziper.webp"
+          "img": "/img/uploads/__carteira-ziper.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-ziper"
         },
         {
-          "img": "/img/uploads/__carteira-pocket.webp"
+          "img": "/img/uploads/__carteira-pocket.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-pocket"
         },
         {
-          "img": "/img/uploads/__carteira-portrait.webp"
+          "img": "/img/uploads/__carteira-portrait.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-portrait"
         },
         {
-          "img": "/img/uploads/carteiras-dafna-pintura-manual-banner.png"
+          "img": "/img/uploads/carteira-flat.png",
+          "link": "https://dafnaedery.netlify.app/carteiras-flat"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64ad6e365e606903705eaba1:categories:Carteiras Médias:/carteiras-medias",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64ad6e425e606903705eabb9:categories:Carteiras Grandes:/carteiras-grandes",
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
