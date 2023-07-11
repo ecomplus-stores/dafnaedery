@@ -8,29 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/slide.png",
+          "img": "/img/uploads/346347452_830674371818569_1807864286501594730_n.jpeg",
           "link": "",
           "alt": "",
           "start": "2023-07-11T14:11:46.729Z",
           "end": "",
           "mobile_img": "/img/uploads/slide-mobile.png"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/acessorios.png"
-        },
-        {
-          "img": "/img/uploads/bolsas.png"
-        },
-        {
-          "img": "/img/uploads/sale.png"
-        },
-        {
-          "img": "/img/uploads/carteiras-dafna-pintura-manual-banner.png"
         }
       ]
     },
@@ -71,6 +54,23 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios.png"
+        },
+        {
+          "img": "/img/uploads/bolsas.png"
+        },
+        {
+          "img": "/img/uploads/sale.png"
+        },
+        {
+          "img": "/img/uploads/carteiras-dafna-pintura-manual-banner.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
