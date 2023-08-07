@@ -24,74 +24,43 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__carteira-bicolor.webp",
-          "link": "https://dafnaedery.netlify.app/carteiras-bicolor"
-        },
-        {
-          "img": "/img/uploads/__carteira-compacta.webp",
-          "link": "https://dafnaedery.netlify.app/carteiras-compacta"
-        },
-        {
           "img": "/img/uploads/__carteira-doc.webp",
           "link": "https://dafnaedery.netlify.app/carteiras-doc"
-        },
-        {
-          "img": "/img/uploads/__carteira-petit.webp",
-          "link": "https://dafnaedery.netlify.app/carteiras-petit"
-        }
-      ]
-    },
-    {
-      "page": 1,
-      "title": "Carteiras Pequenas",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://dafnaedery.netlify.app/carteiras-pequenas",
-      "limit": 12,
-      "collection_id": "64ad6e295e606903705eab8a:categories:Carteiras Pequenas:/carteiras-pequenas",
-      "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__carteira-ziper.webp",
-          "link": "https://dafnaedery.netlify.app/carteiras-ziper"
         },
         {
           "img": "/img/uploads/__carteira-pocket.webp",
           "link": "https://dafnaedery.netlify.app/carteiras-pocket"
         },
         {
-          "img": "/img/uploads/__carteira-portrait.webp",
-          "link": "https://dafnaedery.netlify.app/carteiras-portrait"
+          "img": "/img/uploads/__carteira-petit.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-petit"
         },
         {
-          "img": "/img/uploads/carteira-flat.png",
-          "link": "https://dafnaedery.netlify.app/carteiras-flat"
+          "img": "/img/uploads/__carteira-bicolor.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-bicolor"
         }
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64ad6e365e606903705eaba1:categories:Carteiras Médias:/carteiras-medias",
-      "sort": "news",
-      "title": "Carteiras Médias",
-      "link": "https://dafnaedery.netlify.app/carteiras-medias"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64ad6e425e606903705eabb9:categories:Carteiras Grandes:/carteiras-grandes",
-      "sort": "news",
-      "title": "Carteiras Grandes",
-      "link": "https://dafnaedery.netlify.app/carteiras-pequenas#a-carteiras-grandes"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__pintura.webp",
+          "link": "https://dafnaedery.netlify.app/pintura-manual/"
+        },
+        {
+          "img": "/img/uploads/__carteira-compacta.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-masculinas"
+        },
+        {
+          "img": "/img/uploads/__acess.webp",
+          "link": "https://dafnaedery.netlify.app/porta-oculos"
+        },
+        {
+          "img": "/img/uploads/__presente.webp",
+          "link": "https://dafnaedery.netlify.app/para-viagem"
+        }
+      ]
     },
     {
       "type": "responsive-banner",
