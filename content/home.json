@@ -108,6 +108,12 @@
           "link": "https://dafnaedery.netlify.app/pages/sale"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     }
   ]
 }
