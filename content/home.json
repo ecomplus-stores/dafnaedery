@@ -71,20 +71,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__acess.webp",
-          "link": "https://dafnaedery.netlify.app/acessorios/"
+          "img": "/img/uploads/__carteira-petit.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-argentina"
         },
         {
-          "img": "/img/uploads/bb.png",
-          "link": "https://dafnaedery.netlify.app/bolsas/"
+          "img": "/img/uploads/__carteira-petit.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-navio"
         },
         {
-          "img": "/img/uploads/__presente.webp",
-          "link": "https://dafnaedery.netlify.app/presentes"
+          "img": "/img/uploads/__carteira-petit.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-ziper"
         },
         {
-          "img": "/img/uploads/__pintura.webp",
-          "link": "https://dafnaedery.netlify.app/pintura-manual/"
+          "img": "/img/uploads/__carteira-petit.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-isadora"
         }
       ]
     }
