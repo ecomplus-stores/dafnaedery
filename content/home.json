@@ -80,6 +80,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__acessorios-couro-dafnaedery.webp",
+          "link": "https://dafnaedery.netlify.app/acessorios/"
+        },
+        {
+          "img": "/img/uploads/__necessaires-couro-dafnaedery.webp",
+          "link": "https://dafnaedery.netlify.app/necessaires"
+        },
+        {
+          "img": "/img/uploads/__bolsas-couro-dafnaedery.webp",
+          "link": "https://dafnaedery.netlify.app/bolsas/"
+        },
+        {
+          "img": "/img/uploads/__sale.webp",
+          "link": "https://dafnaedery.netlify.app/pages/sale"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
