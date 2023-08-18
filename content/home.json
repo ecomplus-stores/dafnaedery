@@ -38,6 +38,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__pinturamanual-carteirasdafna.webp",
+          "link": "https://dafnaedery.netlify.app/pintura-manual/"
+        },
+        {
+          "img": "/img/uploads/__carteirascouromasculina.webp",
+          "link": "https://dafnaedery.netlify.app/#a-carteiras-masculinas"
+        },
+        {
+          "img": "/img/uploads/__portaoculoscouro.webp",
+          "link": "https://dafnaedery.netlify.app/porta-oculos"
+        },
+        {
+          "img": "/img/uploads/__paraviagem-necessarie-dafnaedery.webp",
+          "link": "https://dafnaedery.netlify.app/necessaires"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
