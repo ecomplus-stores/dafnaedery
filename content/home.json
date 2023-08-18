@@ -3,14 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__home-carteirasdafnaedery_d1.webp",
-          "link": "https://dafnaedery.netlify.app/dafna_edery",
-          "mobile_img": ""
-        }
-      ]
+      "type": "custom-html",
+      "html": "<div class=\"container\"><div class=\"row\"><div class=\"col-12 col-lg-12 mb-3 mb-lg-0\"><div class=\"banner\"><a href=\"https://dafnaedery.netlify.app/dafna_edery\" aria-label=\"Carteiras e Acessórios em Couro Dafna Edery\" style=\"min-height: 376.364px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/__home-carteirasdafnaedery_d1.png\" data-alt=\"Carteiras e Acessórios em Couro Dafna Edery\" data-width=\"1628\" data-height=\"552\" data-loaded=\"true\"><source srcset=\"/img/uploads/__home-carteirasdafnaedery_d1.webp\" media=\"\" type=\"image/webp\"><source srcset=\"/img/uploads/__home-carteirasdafnaedery_d1.png\" media=\"\" type=\"image/png\"><img alt=\"Carteiras e Acessórios em Couro Dafna Edery\"></picture></a></div>"
     },
     {
       "type": "banners-grid",
