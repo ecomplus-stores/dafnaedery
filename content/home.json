@@ -17,6 +17,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__carteira-doc.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-doc"
+        },
+        {
+          "img": "/img/uploads/__carteira-pocket.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-pocket"
+        },
+        {
+          "img": "/img/uploads/__carteira-petit.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-petit"
+        },
+        {
+          "img": "/img/uploads/__carteira-bicolor.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-bicolor"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
