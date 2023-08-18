@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#000000",
   "theme": {
-    "bootswatch": "sketchy",
+    "bootswatch": "journal",
     "custom": "clean-gray"
   },
   "bg_color": "#ffffff",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Outfit",
   "favicon": "/img/uploads/dafna-logo.png",
-  "icons_font": "_",
+  "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#585859",
   "icon": "/img/uploads/dafna-logo.png",
