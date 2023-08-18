@@ -59,6 +59,27 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__carteira-couro-argentina.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-em-couro-argentina"
+        },
+        {
+          "img": "/img/uploads/__carteira-couro-navio.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-navio"
+        },
+        {
+          "img": "/img/uploads/__carteira-couro-ziper.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-couro-ziper"
+        },
+        {
+          "img": "/img/uploads/__carteira-couro-isadora.webp",
+          "link": "https://dafnaedery.netlify.app/carteiras-isadora"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
