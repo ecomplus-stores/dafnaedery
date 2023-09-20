@@ -9,6 +9,18 @@
       "img": "/img/uploads/__freteespecial.webp",
       "mobile_img": "/img/uploads/__freteespecialmobile.webp",
       "link": "frete especiais - Dafna Edery"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Confira os Destaques do Mês"
     }
   ]
 }
