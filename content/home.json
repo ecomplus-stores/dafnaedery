@@ -4,9 +4,16 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__home-carteirasdafnaedery_d1.webp",
+      "img": "/img/uploads/__home-desktop-at.webp",
       "link": "https://dafnaedery.netlify.app/dafna_edery",
-      "mobile_img": "/img/uploads/__home-carteirasdafnaedery.webp"
+      "mobile_img": "/img/uploads/__home-mobile-at.webp"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__fachadadesktop.webp",
+      "mobile_img": "/img/uploads/__fachada-mobile.webp",
+      "link": "https://dafnaedery.netlify.app/pages/entrega",
+      "alt": "Envio para Todo Brasil veja ofertas especiais"
     },
     {
       "type": "banners-grid",
