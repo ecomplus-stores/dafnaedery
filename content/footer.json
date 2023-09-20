@@ -58,13 +58,14 @@
     }
   ],
   "payment_methods": {
-    "pix": false,
-    "visa": false,
-    "mastercard": false,
-    "elo": false,
+    "pix": true,
+    "visa": true,
+    "mastercard": true,
+    "elo": true,
     "amex": false,
     "hipercard": false,
-    "boleto": false
+    "boleto": true,
+    "paypal": true
   },
   "credits": ""
 }
