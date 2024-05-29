@@ -23,6 +23,17 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "64d116952cd6b659590c6b86:collections:Destaques:/destaques"
+      ],
+      "sort": "views",
+      "shelfs_title": "DESTAQUES DA LOJA"
     }
   ]
 }
