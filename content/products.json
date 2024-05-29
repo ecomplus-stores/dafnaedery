@@ -31,10 +31,6 @@
       "show_loading": true
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -48,6 +44,10 @@
           "img": "/img/uploads/slim.png"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
