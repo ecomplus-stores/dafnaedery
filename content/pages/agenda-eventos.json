@@ -1,6 +1,6 @@
 {
   "title": "Agenda Eventos",
-  "body": "A﻿companhe os eventos que vem por aí. \n\nT﻿e esperamos por lá também :)",
+  "body": "## **Descubra a Elegância das Carteiras de Couro Artesanais Dafna Edery em Nossos Próximos Eventos!**\n\nAqui na **Dafna Edery,** tradição e qualidade se encontram em cada peça de nossa coleção. Nossas carteiras de couro artesanais, tanto femininas quanto masculinas, são projetadas para durar e encantar. Além das carteiras, oferecemos uma linha completa de acessórios em couro, como nécessaires, porta óculos e outros itens essenciais para o seu dia a dia.\n\nE não para por aí! Estamos sempre presentes nos **melhores eventos e feiras de São Paulo**, levando a você a oportunidade de conhecer nossos produtos de perto, sentir a qualidade do nosso couro e conferir a beleza dos nossos designs exclusivos.\n\nNão perca a chance de nos visitar! Venha descobrir o que torna as nossas carteiras e acessórios tão especiais.",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -11,23 +11,31 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<p>Acompanhe nossa agenda e fique por dentro das próximas feiras e eventos em nosso Instagram: <a href=\"https://www.instagram.com/stories/highlights/17907467156616784/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" ></a> @dafnaedery.\n\n<p><i>Siga-nos e esteja sempre atualizado!</p></i>\n\n<center>\n<div class=\"h3\">Contatos</div>\n<p><a href=\"https://wa.me/5511997187964\"target=\"_blank\" \nrel=\"noopener\" class=\"whatsapp-link\" data-tel=\"11997187964\">\n11 99718-7964</a></p>\n<p><a href=\"mailto:\" target=\"_blank\" rel=\"noopener\"></a></p>\n<p><address></address><p class=\"footer__social\">\n<a href=\"https://www.facebook.com/Carteiras-Dafna-Edery-1403295359894837/\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a>\n<a href=\"https://www.instagram.com/carteirasdafnaedery/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i> </a>\n<a href=\"https://www.tiktok.com/@carteirasdafnaedery\" target=\"_blank\" rel=\"noopener\" aria-label=\"tiktok\" style=\"color: #000000\"><i class=\"i-tiktok\"></i></a></p></center>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/346347452_830674371818569_1807864286501594730_n.jpeg"
+          "img": "/img/uploads/agenda-eventos-dafna.png"
         },
         {
-          "img": "/img/uploads/351045168_265307716070127_534663702512192904_n.jpeg"
-        },
-        {
-          "img": "/img/uploads/337371531_897390284804619_7386424431816255570_n.jpeg"
+          "img": "/img/uploads/revenda-atacado-dafna.png",
+          "link": "https://dafnaedery.netlify.app/pages/atacado"
         }
       ]
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "type": "shelfs-nav",
+      "shuffle": false,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "64d116952cd6b659590c6b86:collections:Destaques:/destaques"
+      ],
+      "sort": "views",
+      "shelfs_title": "DESTAQUES"
     },
     {
       "type": "info-bar",
