@@ -17,6 +17,10 @@
       "img": "/img/uploads/atacado-revenda-dafnaedery-carteiras.png"
     },
     {
+      "type": "custom-html",
+      "html": "<center><a href=\"https://wa.me/5511997187964\"target=\"_blank\" aria-label=\"Whatsapp\" style=\"min-height: 608px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/atacado-revenda-dafnaedery-carteiras.png\" data-alt=\"\" data-width=\"607\" data-height=\"608\" data-loaded=\"true\"><source srcset=\"/img/uploads/atacado-revenda-dafnaedery-carteiras.png\" media=\"\"><img></picture></a>\n  </center>\n<center><h4>Para mais informações sobre revenda e atacado, entre em contato conosco pelo WhatsApp: </h4>\n  <a href=\"https://wa.me/5511997187964\" class=\"bt\" target=\"_blank\">11 99718-7964</a></center>\n  \n"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
