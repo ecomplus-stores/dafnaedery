@@ -1,0 +1,37 @@
+{
+  "title": "Atacado / Revenda",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/atacado-revenda-dafnaedery-carteiras.png"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64d116952cd6b659590c6b86:collections:Destaques:/destaques",
+      "sort": "views",
+      "title": "DESTAQUES",
+      "link": "https://dafnaedery.netlify.app/destaques"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ],
+  "body": "## Revenda e Atacado - Carteiras e Acessórios de Couro Dafna Edery\n\n**Conheça Nossa História**\n\n\nA paixão pelo couro corre no sangue de **Dafna Edery**. Filha de um talentoso artesão marroquino, Dafna herdou não só a técnica, mas também o amor por criar carteiras e acessórios de couro de excelente qualidade. Cada peça é uma obra de arte, refletindo anos de tradição e dedicação.\n\n**Por Que Escolher Dafna Edery?**\n\n\nNossas carteiras e acessórios são:\n\n* Coloridos e Vibrantes: Uma variedade de cores que encantam e se destacam.\n* Práticos e Leves: Design funcional para o dia a dia, sem comprometer a elegância.\n* Feitos à Mão: Cada peça é única, confeccionada com cuidado e precisão.\n\n\n\n**Qualidade e Sustentabilidade**\n\n\nValorizamos a matéria-prima e a mão de obra brasileira, garantindo produtos artesanais que são feitos para durar. Nossos produtos são projetados para oferecer durabilidade e estilo, encantando clientes em todo o país.\n\n**Seja Nosso Parceiro**\n\n\nSe você deseja oferecer aos seus clientes produtos diferenciados e de alta qualidade, a linha de carteiras e acessórios **Dafna Edery** é a escolha perfeita. Junte-se a nós e faça parte dessa tradição de excelência e beleza.",
+  "meta_title": "Revenda / Atacado - Carteiras Dafna Edery - Artesanais em Couro",
+  "meta_description": "Descubra a linha de carteiras e acessórios de couro artesanais Dafna Edery. Alta qualidade, cores vibrantes e design prático. Torne-se um revendedor! Contate-nos via WhatsApp"
+}
