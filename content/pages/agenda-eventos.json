@@ -15,17 +15,6 @@
       "html": "<center><a href=\"https://www.instagram.com/stories/highlights/17907467156616784/\" target=\"_blank\" aria-label=\"agenda de eventos\" style=\"min-height: 608px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/agenda-dafna-edery-instagram.png\" data-alt=\"agenda de eventos\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\"/img/uploads/agenda-dafna-edery-instagram.png\" media=\"\"><img alt=\"agenda de eventos\"></picture></a></center></div>\n\n<center><h4>Acompanhe nossa agenda e fique por dentro das próximas feiras e eventos em nosso Instagram:</h4>\n<a href=\"https://www.instagram.com/stories/highlights/17907467156616784/\" class=\"bt\" target=\"_blank\">carteirasdafnaedery</a>\n  \n\n  <p><i>Siga-nos e esteja sempre atualizado!</p></i></center>\n\n"
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": false,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "64d116952cd6b659590c6b86:collections:Destaques:/destaques"
-      ],
-      "sort": "views",
-      "shelfs_title": "DESTAQUES"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -38,8 +27,20 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64d116952cd6b659590c6b86:collections:Destaques:/destaques",
+      "sort": "views",
+      "title": "DESTAQUES",
+      "link": "https://dafnaedery.netlify.app/destaques"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
-  ]
+  ],
+  "meta_title": "Agenda de Eventos - SP - Dafna Edery - Carteiras em Couro Artesanais",
+  "meta_description": "Conheça as carteiras de couro artesanais Dafna Edery em eventos e feiras de São Paulo. Qualidade e design exclusivo. Acompanhe nossa agenda no Instagram."
 }
