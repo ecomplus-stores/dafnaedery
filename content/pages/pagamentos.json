@@ -2,5 +2,32 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "  Formas de pagamento: \n\n\\- PIX /depósito/transferência com 5% de desconto no valor dos produtos (Banco Itaú).\n    - boleto, cartão de débito, cartão de crédito à vista ou parcelado em até 5X sem juros, são via PayPal ou Pagseguro",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64d116952cd6b659590c6b86:collections:Destaques:/destaques",
+      "sort": "views",
+      "title": "DESTAQUES",
+      "link": "https://dafnaedery.netlify.app/destaques"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
