@@ -6,8 +6,8 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__freteespecial.webp",
-      "mobile_img": "/img/uploads/__freteespecialmobile.webp",
+      "img": "/img/uploads/freteespecial.png",
+      "mobile_img": "",
       "link": "frete especiais - Dafna Edery"
     },
     {
@@ -20,7 +20,13 @@
       "limit": 12,
       "page": 1,
       "sort": "views",
-      "title": "Confira os Destaques do Mês"
+      "title": "Confira os Destaques do Mês",
+      "collection_id": "64d116952cd6b659590c6b86:collections:Destaques:/destaques",
+      "link": "https://dafnaedery.netlify.app/destaques"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
