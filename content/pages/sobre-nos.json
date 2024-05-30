@@ -2,5 +2,39 @@
   "title": "Sobre nós",
   "meta_title": "Sobre nós",
   "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**Conheça nossa história:**\n\n\nFilha de artesão marroquino, Dafna herdou a paixão e a técnica em criar carteiras e acessórios em couro de excelente qualidade.\nSão peças coloridas, práticas, leves e feitas à mão.\nValorizando a matéria prima e a mão de obra brasileira, seus produtos artesanais são feitos para durar e se apaixonar!",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/quemsomosimagem.jpg"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64d116952cd6b659590c6b86:collections:Destaques:/destaques",
+      "link": "https://dafnaedery.netlify.app/destaques",
+      "title": "DESTAQUES"
+    },
+    {
+      "type": "custom-html",
+      "html": "<center>\n    <h5>Atendimento  </h5>\n<br>\n     \n         <span> <a href=\"https://wa.me/5511997187964\" target=\"_blank\" alt=\"Whatsapp\" title=\"Whatsapp\"><img src=\"https://cdn.ecvol.com/s/www.dafnaedery.com.br/uploads/whatsapp1.png\">&ensp;&nbsp;WhatsApp:(11) 99718-7964</a></span><br><br>\n        <span><a href=\"mailto:vendasonline@dafnaedery.com.br \" target=\"_blank\" alt=\"Fale Conosco\" title=\"Fale Conosco\"><img src=\"https://cdn.ecvol.com/s/www.dafnaedery.com.br/uploads/email.png\">&ensp;&nbsp;vendasonline@dafnaedery.com.br </a></span><br><br>\n  Acompanhe nossas redes sociais: <span><a href=\"https://www.facebook.com/Carteiras-Dafna-Edery-1403295359894837/ \" target=\"_blank\" alt=\"Acompanhe nossa Fanpage\" title=\"Acompanhe nossa Fanpage\"><img src=\"https://cdn.ecvol.com/s/www.dafnaedery.com.br/uploads/facebook-dafna-edrey.png\"> </a></span>&ensp;<span><a href=\"https://www.instagram.com/carteirasdafnaedery/ \" target=\"_blank\" alt=\"Siga nosso Instagram\" title=\"Siga Nosso Instagram\"><img src=\"https://cdn.ecvol.com/s/www.dafnaedery.com.br/uploads/instagram-dafna-edery.png\"> </a></span><br><br> </center>"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
