@@ -27,6 +27,21 @@
       "link": "https://dafnaedery.netlify.app/destaques"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/agenda-eventos-dafna.png",
+          "link": "https://dafnaedery.netlify.app/pages/agenda-eventos",
+          "alt": "Agenda de Eventos - Dafna Edery - Carteiras em Couro Artesanais"
+        },
+        {
+          "img": "/img/uploads/revenda-atacado-dafna.png",
+          "link": "https://dafnaedery.netlify.app/pages/atacado-revenda",
+          "alt": "Atacado / Revenda Carteiras Dafna Edery "
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
