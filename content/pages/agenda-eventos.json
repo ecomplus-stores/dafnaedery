@@ -11,13 +11,8 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/agenda-dafna-edery-instagram.png",
-      "alt": "agenda de eventos"
-    },
-    {
       "type": "custom-html",
-      "html": "<p>Acompanhe nossa agenda e fique por dentro das próximas feiras e eventos em nosso Instagram: <a href=\"https://www.instagram.com/stories/highlights/17907467156616784/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" ></a> @dafnaedery.\n\n<p><i>Siga-nos e esteja sempre atualizado!</p></i>\n\n<center>\n<div class=\"h3\">Contatos</div>\n<p><a href=\"https://wa.me/5511997187964\"target=\"_blank\" \nrel=\"noopener\" class=\"whatsapp-link\" data-tel=\"11997187964\">\n11 99718-7964</a></p>\n<p><a href=\"mailto:\" target=\"_blank\" rel=\"noopener\"></a></p>\n<p><address></address><p class=\"footer__social\">\n<a href=\"https://www.facebook.com/Carteiras-Dafna-Edery-1403295359894837/\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a>\n<a href=\"https://www.instagram.com/carteirasdafnaedery/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i> </a>\n<a href=\"https://www.tiktok.com/@carteirasdafnaedery\" target=\"_blank\" rel=\"noopener\" aria-label=\"tiktok\" style=\"color: #000000\"><i class=\"i-tiktok\"></i></a></p></center>"
+      "html": "<center><a href=\"https://www.instagram.com/stories/highlights/17907467156616784/\" target=\"_blank\" aria-label=\"agenda de eventos\" style=\"min-height: 608px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/agenda-dafna-edery-instagram.png\" data-alt=\"agenda de eventos\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\"/img/uploads/agenda-dafna-edery-instagram.png\" media=\"\"><img alt=\"agenda de eventos\"></picture></a></center></div>\n\n<h4>Acompanhe nossa agenda e fique por dentro das próximas feiras e eventos em nosso Instagram: <a href=\"https://www.instagram.com/stories/highlights/17907467156616784/\" target=\"_blank\" @dafnaedery.></a></h4>\n\n<p><i>Siga-nos e esteja sempre atualizado!</p></i>\n\n"
     },
     {
       "type": "banners-grid",
