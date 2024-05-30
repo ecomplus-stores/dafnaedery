@@ -32,10 +32,12 @@
         "url": "https://dafnaedery.netlify.app/pages/atacado-revenda"
       },
       {
-        "text": " Segurança & Privacidade"
+        "text": " Segurança & Privacidade",
+        "url": "https://dafnaedery.netlify.app/pages/privacidade"
       },
       {
-        "text": " Trocas & Devoluções"
+        "text": " Trocas & Devoluções",
+        "url": "https://dafnaedery.netlify.app/pages/trocas"
       }
     ]
   },
