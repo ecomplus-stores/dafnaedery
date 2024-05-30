@@ -12,8 +12,8 @@
       "type": "page-title"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/quemsomosimagem.jpg"
+      "type": "custom-html",
+      "html": "<center><a href=\"javascript:;\" aria-label=\"\" style=\"min-height: 1129px;\"><picture class=\"lozad fade img-fluid show\" data-iesrc=\"/img/uploads/quemsomosimagem.jpg\" data-alt=\"\" data-width=\"700\" data-height=\"1129\" data-loaded=\"true\"><source srcset=\"/img/uploads/quemsomosimagem.jpg\" media=\"\">\n  <img></picture></a></center></div>\n"
     },
     {
       "type": "extra-page",
