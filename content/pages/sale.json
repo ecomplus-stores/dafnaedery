@@ -11,18 +11,9 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/frete.png",
-      "mobile_img": "/img/uploads/fretemobile.png"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
