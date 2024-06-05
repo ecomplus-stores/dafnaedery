@@ -25,10 +25,6 @@
     {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-frete-page.png"
     }
   ]
 }
