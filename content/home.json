@@ -3,10 +3,29 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2024-06-05T20:57:16.624Z",
+          "end": "",
+          "img": "/img/uploads/slide2.png",
+          "mobile_img": "/img/uploads/slide1-mb.png"
+        },
+        {
+          "start": "2024-06-05T20:57:22.170Z",
+          "end": "",
+          "img": "/img/uploads/slid3.png",
+          "mobile_img": "/img/uploads/slide1-mb.png"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
-      "img": "/img/uploads/__slide-historia-dafna.webp",
+      "img": "/img/uploads/slide1.png",
       "link": "https://dafnaedery.netlify.app/dafna_edery",
-      "mobile_img": "/img/uploads/__slide-historia-dafna_mobile.webp"
+      "mobile_img": "/img/uploads/slide1-mb.png"
     },
     {
       "type": "responsive-banner",
@@ -19,19 +38,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__carteira-doc.webp",
+          "img": "/img/uploads/argentina.png",
           "link": "https://dafnaedery.netlify.app/carteiras-doc"
         },
         {
-          "img": "/img/uploads/__carteira-pocket.webp",
+          "img": "/img/uploads/pocket.png",
           "link": "https://dafnaedery.netlify.app/carteiras-pocket"
         },
         {
-          "img": "/img/uploads/__carteira-petit.webp",
+          "img": "/img/uploads/petit.png",
           "link": "https://dafnaedery.netlify.app/carteiras-petit"
         },
         {
-          "img": "/img/uploads/__carteira-bicolor.webp",
+          "img": "/img/uploads/bicolor.png",
           "link": "https://dafnaedery.netlify.app/carteiras-bicolor"
         }
       ]
@@ -40,15 +59,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__pinturamanual-carteirasdafna.webp",
+          "img": "/img/uploads/pintadasamao.png",
           "link": "https://dafnaedery.netlify.app/pintura-manual/"
         },
         {
-          "img": "/img/uploads/__carteirascouromasculina.webp",
+          "img": "/img/uploads/masculinas.png",
           "link": "https://dafnaedery.netlify.app/#a-carteiras-masculinas"
         },
         {
-          "img": "/img/uploads/__portaoculoscouro.webp",
+          "img": "/img/uploads/portaoculos.png",
           "link": "https://dafnaedery.netlify.app/porta-oculos"
         },
         {
@@ -61,19 +80,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__carteira-couro-argentina.webp",
+          "img": "/img/uploads/acessorios.png",
           "link": "https://dafnaedery.netlify.app/carteiras-em-couro-argentina"
         },
         {
-          "img": "/img/uploads/__carteira-couro-navio.webp",
+          "img": "/img/uploads/navio.png",
           "link": "https://dafnaedery.netlify.app/carteiras-navio"
         },
         {
-          "img": "/img/uploads/__carteira-couro-ziper.webp",
+          "img": "/img/uploads/bolsas.png",
           "link": "https://dafnaedery.netlify.app/carteiras-couro-ziper"
         },
         {
-          "img": "/img/uploads/__carteira-couro-isadora.webp",
+          "img": "/img/uploads/isadora.png",
           "link": "https://dafnaedery.netlify.app/carteiras-isadora"
         }
       ]
@@ -82,19 +101,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__acessorios-couro-dafnaedery.webp",
+          "img": "/img/uploads/acessorios.png",
           "link": "https://dafnaedery.netlify.app/acessorios/"
         },
         {
-          "img": "/img/uploads/__necessaires-couro-dafnaedery.webp",
+          "img": "/img/uploads/portacelular.png",
           "link": "https://dafnaedery.netlify.app/necessaires"
         },
         {
-          "img": "/img/uploads/__bolsas-couro-dafnaedery.webp",
+          "img": "/img/uploads/portaoculos.png",
           "link": "https://dafnaedery.netlify.app/bolsas/"
         },
         {
-          "img": "/img/uploads/__sale.webp",
+          "img": "/img/uploads/bolsas.png",
           "link": "https://dafnaedery.netlify.app/pages/sale"
         }
       ]
@@ -113,13 +132,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/agenda-eventos-dafna.png",
+          "img": "/img/uploads/banner-agendaeventos.png",
           "link": "https://dafnaedery.netlify.app/pages/agenda-eventos",
           "alt": "Agenda de Eventos Dafna Edery - Carteiras em Couro Artesanais"
         },
         {
-          "img": "/img/uploads/revenda-atacado-dafna.png",
-          "link": "https://dafnaedery.netlify.app/pages/atacado-revenda",
+          "img": "/img/uploads/banner-pinturamanual.png",
+          "link": "https://dafnaedery.netlify.app/pintura-manual/",
           "alt": "Revenda - Atacado - Dafna Edery - Carteiras em Couro Artesanais"
         }
       ]
