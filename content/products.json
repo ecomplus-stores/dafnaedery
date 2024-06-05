@@ -31,21 +31,6 @@
       "show_loading": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/carteiras-dafna-banner.png"
-        },
-        {
-          "img": "/img/uploads/acessorios.png",
-          "link": "https://dafnaedery.netlify.app/acessorios/"
-        },
-        {
-          "img": "/img/uploads/slim.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
