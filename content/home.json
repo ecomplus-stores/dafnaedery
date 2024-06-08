@@ -80,19 +80,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/acessorios.png",
+          "img": "/img/uploads/argentina1.png",
           "link": "https://dafnaedery.netlify.app/carteiras-em-couro-argentina"
         },
         {
-          "img": "/img/uploads/bolsas.png",
+          "img": "/img/uploads/navio1.png",
           "link": "https://dafnaedery.netlify.app/carteiras-navio"
         },
         {
-          "img": "/img/uploads/masculinas.png",
+          "img": "/img/uploads/__carteira-couro-ziper.webp",
           "link": "https://dafnaedery.netlify.app/carteiras-couro-ziper"
         },
         {
-          "img": "/img/uploads/pintadasamao.png",
+          "img": "/img/uploads/isadora1.png",
           "link": "https://dafnaedery.netlify.app/carteiras-isadora"
         }
       ]
