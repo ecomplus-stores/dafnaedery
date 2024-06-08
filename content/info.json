@@ -2,13 +2,13 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": "Confira as promoções ativas de Frete para São Paulo - SP",
+    "title": "FRETE ESPECIAL, consulte as regras",
     "link": "/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "ou Parcele em até 5x sem juros no cartão",
-    "title": "Garanta 5% de desconto no PIX ",
+    "title": "Ganhe 5% de desconto no PIX ",
     "link": "https://dafnaedery.netlify.app/pages/pagamentos"
   },
   "exchange": {
