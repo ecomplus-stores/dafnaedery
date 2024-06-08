@@ -59,19 +59,19 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/petit.png",
+          "img": "/img/uploads/pinturamanual.png",
           "link": "https://dafnaedery.netlify.app/pintura-manual/"
         },
         {
-          "img": "/img/uploads/pocket.png",
+          "img": "/img/uploads/masculinas1.png",
           "link": "https://dafnaedery.netlify.app/#a-carteiras-masculinas"
         },
         {
-          "img": "/img/uploads/portaoculos.png",
+          "img": "/img/uploads/porta-oculos.png",
           "link": "https://dafnaedery.netlify.app/porta-oculos"
         },
         {
-          "img": "/img/uploads/portacelular.png",
+          "img": "/img/uploads/portacelular1.png",
           "link": "https://dafnaedery.netlify.app/necessaires"
         }
       ]
