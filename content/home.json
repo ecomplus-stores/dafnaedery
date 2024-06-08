@@ -98,6 +98,26 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/acessorios1.png",
+          "link": "https://dafnaedery.netlify.app/acessorios/"
+        },
+        {
+          "img": "/img/uploads/bolsas1.png",
+          "link": "https://dafnaedery.netlify.app/bolsas/"
+        },
+        {
+          "img": "/img/uploads/paraviagem1.png",
+          "link": "https://dafnaedery.netlify.app/acessorios/"
+        },
+        {
+          "img": "/img/uploads/__sale.webp"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
