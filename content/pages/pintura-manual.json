@@ -3,6 +3,19 @@
   "body": "C﻿onheça Pintura Manual por",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-06-19T17:28:45.647Z",
+          "end": "",
+          "img": "/img/uploads/catpintura-manual.png",
+          "mobile_img": "/img/uploads/catpintura-manual-mob.png"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
