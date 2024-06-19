@@ -5,32 +5,21 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "start": "2024-06-05T20:57:16.624Z",
+          "start": "2024-06-19T16:35:02.994Z",
           "end": "",
-          "img": "/img/uploads/slide2.png",
-          "mobile_img": "/img/uploads/slide1-mb.png"
-        },
-        {
-          "start": "2024-06-05T20:57:22.170Z",
-          "end": "",
-          "img": "/img/uploads/slid3.png",
-          "mobile_img": "/img/uploads/slide1-mb.png"
+          "img": "/img/uploads/__slideinicial-1906.webp",
+          "mobile_img": "/img/uploads/slide1-mb.png",
+          "link": "https://dafnaedery.netlify.app/pages/sobre-nos"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/slide1.png",
-      "link": "https://dafnaedery.netlify.app/dafna_edery",
-      "mobile_img": "/img/uploads/slide1-mb.png"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/dekstopfachada.png",
-      "mobile_img": "/img/uploads/mobile-facjada.png",
+      "mobile_img": "/img/uploads/mobile-f-1906.png",
       "link": "https://dafnaedery.netlify.app/pages/entrega",
       "alt": "Envio para Todo Brasil veja ofertas especiais"
     },
@@ -131,13 +120,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-agendaeventos.png",
+          "img": "/img/uploads/agenda-eventos-1906.png",
           "link": "https://dafnaedery.netlify.app/pages/agenda-eventos",
           "alt": "Agenda de Eventos Dafna Edery - Carteiras em Couro Artesanais"
         },
         {
-          "img": "/img/uploads/banner-pinturamanual.png",
-          "link": "https://dafnaedery.netlify.app/pintura-manual/",
+          "img": "/img/uploads/banner-pinturamanual-1906.png",
+          "link": "https://dafnaedery.netlify.app/pages/pintura-manual",
           "alt": "Revenda - Atacado - Dafna Edery - Carteiras em Couro Artesanais"
         }
       ]
