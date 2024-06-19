@@ -28,11 +28,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/agenda-eventos-dafna.png"
+          "img": "/img/uploads/agenda-eventos-1906.png"
         },
         {
-          "img": "/img/uploads/revenda-atacado-dafna.png",
-          "link": "https://dafnaedery.netlify.app/pages/atacado-revenda"
+          "img": "/img/uploads/banner-pinturamanual-1906.png",
+          "link": "https://dafnaedery.netlify.app/pages/pintura-manual"
         }
       ]
     },
