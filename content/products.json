@@ -19,11 +19,11 @@
     },
     {
       "type": "product-specifications",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "related-products",
-      "title": "Produtos relacionados"
+      "title": "Veja também"
     },
     {
       "type": "recommended-products",
