@@ -51,11 +51,15 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/formas-de-pagamento_.png",
+      "src": "/img/uploads/pix1.png",
       "link": "https://dafnaedery.netlify.app/pages/pagamentos"
     },
     {
-      "src": "/img/uploads/seguranca.png"
+      "src": "/img/uploads/cartoes.png",
+      "link": "https://dafnaedery.netlify.app/pages/pagamentos"
+    },
+    {
+      "src": "/img/uploads/seguranca1.png"
     }
   ],
   "payment_methods": {
