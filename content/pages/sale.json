@@ -16,6 +16,15 @@
       "sort": "offers"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null,
+      "sort": "sales",
+      "title": "Veja o que nossas clientes estão escolhendo e se inspire"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
