@@ -13,7 +13,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n<br><br>\n<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107_.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107_.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n</center></div>\n"
+      "html": "<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107_.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107_.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n</center></div>\n"
     },
     {
       "type": "extra-page",
