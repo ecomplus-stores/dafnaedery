@@ -13,7 +13,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n\n<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107_.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107_.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n</center></div>\n"
+      "html": "<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n<br><br>\n<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107_.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107_.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n</center></div>\n"
     },
     {
       "type": "extra-page",
@@ -24,10 +24,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
-      "title": "Confira os Destaques do Mês",
-      "collection_id": "64d116952cd6b659590c6b86:collections:Destaques:/destaques",
-      "link": "https://dafnaedery.netlify.app/destaques"
+      "sort": "news",
+      "title": "ACABARAM DE CHEGAR POR AQUI",
+      "collection_id": null,
+      "link": ""
     },
     {
       "type": "info-bar",
