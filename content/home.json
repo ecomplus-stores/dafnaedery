@@ -103,7 +103,8 @@
         },
         {
           "img": "/img/uploads/__sale.webp",
-          "link": "https://dafnaedery.netlify.app/pages/sale"
+          "link": "https://dafnaedery.netlify.app/sale",
+          "alt": "Sale - Carteiras e Acessórios Artesanais Dafna Edery"
         }
       ]
     },
