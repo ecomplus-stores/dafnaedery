@@ -17,6 +17,10 @@
       ]
     },
     {
+      "type": "custom-html",
+      "html": "<center><h5> Primeira vez por aqui? </h5><br>\n  <p>Ganhe 5% de desconto - Use o cupom: PRIMEIRACOMPRA</p></center>"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/dekstopfachada.png",
       "mobile_img": "/img/uploads/mobile-f-1906.png",
@@ -119,18 +123,13 @@
       "title": "DESTAQUES"
     },
     {
-      "type": "page-title",
-      "title": "USE CUPOM: PRIMEIRACOMPRA ",
-      "description": "Ganhe 5% de desconto"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "sort": "offers",
       "title": "SALE",
-      "link": "https://dafnaedery.netlify.app/pages/sale"
+      "link": "https://dafnaedery.netlify.app/sale"
     },
     {
       "type": "banners-grid",
