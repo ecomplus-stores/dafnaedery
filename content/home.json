@@ -118,6 +118,11 @@
       "title": "DESTAQUES"
     },
     {
+      "type": "page-title",
+      "title": "USE CUPOM: PRIMEIRACOMPRA ",
+      "description": "Ganhe 5% de desconto"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
