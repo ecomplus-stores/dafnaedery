@@ -51,12 +51,6 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
-      "width": 150,
-      "height": 62
-    },
-    {
       "src": "/img/uploads/formas-de-pagamento.png",
       "link": "https://dafnaedery.netlify.app/pages/pagamentos"
     },
@@ -72,7 +66,7 @@
     "amex": false,
     "hipercard": false,
     "boleto": false,
-    "paypal": true
+    "paypal": false
   },
   "credits": ""
 }
