@@ -18,7 +18,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<center><h5> Primeira vez por aqui? </h5><br>\n  <p>Ganhe 5% de desconto - Use o cupom: PRIMEIRACOMPRA</p></center>"
+      "html": "<center><h4 class=\"products-carousel__title\">Primeira vez por aqui?</a></h4> \n<br>\n  <p>Ganhe 5% de desconto - Use o cupom: PRIMEIRACOMPRA</p></center>"
     },
     {
       "type": "responsive-banner",
