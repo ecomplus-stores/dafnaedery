@@ -16,11 +16,12 @@
       ]
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "page-title",
+      "title": "Carteiras e Acessórios Artesanais Coleção Exclusiva"
     },
     {
-      "type": "page-title"
+      "type": "breadcrumbs",
+      "enabled": true
     },
     {
       "type": "extra-page",
