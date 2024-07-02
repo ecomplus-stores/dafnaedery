@@ -17,10 +17,6 @@
       ]
     },
     {
-      "type": "custom-html",
-      "html": "<center><h4 >Primeira vez por aqui?</h4> \n  <p>Ganhe 5% de desconto - Use o cupom: PRIMEIRACOMPRA</p></center>"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/dekstopfachada.png",
       "mobile_img": "/img/uploads/mobile-f-1906.png",
@@ -121,6 +117,10 @@
       "sort": "sales",
       "link": "https://dafnaedery.netlify.app/destaques",
       "title": "DESTAQUES"
+    },
+    {
+      "type": "custom-html",
+      "html": "<center><h4 >Primeira vez por aqui?</h4> \n  <p>Ganhe 5% de desconto - Use o cupom: PRIMEIRACOMPRA</p></center>"
     },
     {
       "type": "collection-shelf",
