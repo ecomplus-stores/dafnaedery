@@ -102,7 +102,8 @@
           "link": "https://dafnaedery.netlify.app/para-viagem"
         },
         {
-          "img": "/img/uploads/__sale.webp"
+          "img": "/img/uploads/__sale.webp",
+          "link": "https://dafnaedery.netlify.app/pages/sale"
         }
       ]
     },
