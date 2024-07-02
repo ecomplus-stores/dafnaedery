@@ -10,7 +10,7 @@
         {
           "start": "2024-06-19T16:35:02.994Z",
           "end": "",
-          "img": "/img/uploads/__slideinicial-1906.webp",
+          "img": "/img/uploads/__home-novo1071.webp",
           "mobile_img": "/img/uploads/slide1-mb.png",
           "link": "https://dafnaedery.netlify.app/pages/sobre-nos"
         }
@@ -62,6 +62,20 @@
         {
           "img": "/img/uploads/portacelular1.png",
           "link": "https://dafnaedery.netlify.app/porta-celular"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__home-novo107.webp",
+          "link": "https://dafnaedery.netlify.app/dafna_edery",
+          "mobile_img": "/img/uploads/__home-mobile-at.webp"
         }
       ]
     },
