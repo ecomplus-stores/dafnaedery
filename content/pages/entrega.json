@@ -9,7 +9,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Envio para Todo Brasil",
+      "description": "Confira nossas condições"
     },
     {
       "type": "custom-html",
