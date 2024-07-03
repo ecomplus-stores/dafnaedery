@@ -13,7 +13,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<center><picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete_0107_.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete_0107_.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n</center></div>\n"
+      "html": "<section class=\"custom-html my-4 my-lg-5\"><div class=\"container\"><div class=\"html-clearfix\"><div class=\"html-clearfix\"><div class=\"sobre_cell_container row\"><div class=\"sobre_cell_title col-12\"><h4><span><b>Na Dafna Edery, levamos a sua comodidade a sério. </b></span></h4></div><div class=\"sobre_cell_text col-md-7 col-12\"><p>Com envio para todo o Brasil, você pode ter nossos produtos incríveis onde quer que esteja. E o melhor de tudo? Temos produtos a pronta entrega, o que significa que você não precisa esperar muito para desfrutar de nossos itens exclusivos.</p></div><div picture class=\"lozad fade img-fluid show\" data-iesrc=\"template/public/img/uploads/frete0207_1.png\" data-alt=\"opcoes frete\" data-width=\"750\" data-height=\"608\" data-loaded=\"true\">\n <source srcset=\n         \"/img/uploads/frete0207_1.png\" media=\"\"><img alt=\"opcoes de frete\"></picture></a>\n</div>\n</div></div></div></div></section>\n\n"
     },
     {
       "type": "extra-page",
