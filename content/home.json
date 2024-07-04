@@ -119,10 +119,6 @@
       "title": "DESTAQUES"
     },
     {
-      "type": "custom-html",
-      "html": "<center><h4 >Primeira vez por aqui?</h4> \n  <p>Ganhe 5% de desconto - Use o cupom: PRIMEIRACOMPRA</p></center>"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
