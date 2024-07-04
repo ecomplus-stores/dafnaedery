@@ -5,10 +5,6 @@
       "enabled": true
     },
     {
-      "type": "document-description",
-      "enabled": true
-    },
-    {
       "type": "brand-retail",
       "enabled": true,
       "sort": "sales"
@@ -17,6 +13,10 @@
       "type": "page-title",
       "title": "Dafna Edery - Carteiras e Acessórios Artesanais em Couro",
       "description": "Qualidade impecável e durabilidade excepcional. Feitas à mão no Brasil, elas são verdadeiras obras de arte. Escolha entre uma ampla variedade de cores e modelos exclusivos."
+    },
+    {
+      "type": "document-description",
+      "enabled": true
     },
     {
       "type": "document-banner",
