@@ -1,23 +1,24 @@
 {
-  "marketing_stripe": {
-    "text": "Frete Grátis acima de R$500 (SP Capital) | 5% no PIX | Parcele em até 5x sem juros",
-    "link": "/pages/entrega",
-    "background": "#afafaf",
-    "color": "#ffffff"
-  },
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [],
     "random": 7,
     "full_width": true
   },
   "centralized_logo": false,
-  "desktop_megamenu": false,
-  "search_input": true,
+  "marketing_stripe": {
+    "text": "Frete Grátis acima de R$500 (SP Capital) | 5% no PIX | Parcele em até 5x sem juros",
+    "link": "/pages/entrega",
+    "background": "#afafaf",
+    "color": "#ffffff"
+  },
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "popup": "/img/uploads/__popup0407.webp",
+  "search_input": true,
+  "desktop_megamenu": false,
+  "full_width_submenu": true,
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": true,
+    "socials": true
+  }
 }
