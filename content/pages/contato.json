@@ -23,20 +23,7 @@
       "collection_id": "64d116952cd6b659590c6b86:collections:Destaques:/destaques",
       "sort": "views",
       "title": "DESTAQUES",
-      "link": "https://dafnaedery.netlify.app/destaques"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/agenda-eventos-dafna.png",
-          "link": "https://dafnaedery.netlify.app/pages/agenda-eventos"
-        },
-        {
-          "img": "/img/uploads/revenda-atacado-dafna.png",
-          "link": "https://dafnaedery.netlify.app/pages/atacado-revenda"
-        }
-      ]
+      "link": "https://www.dafnaedery.com.br/destaques"
     },
     {
       "type": "info-bar",
