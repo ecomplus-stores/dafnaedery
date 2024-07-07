@@ -7,7 +7,7 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Frete Grátis acima de R$500 (SP Capital) | 5% no PIX | Parcele em até 5x sem juros",
-    "link": "/pages/entrega",
+    "link": "https://www.dafnaedery.com.br/pages/entrega",
     "background": "#afafaf",
     "color": "#ffffff"
   },
