@@ -9,31 +9,31 @@
     "list": [
       {
         "text": "Quem Somos",
-        "url": "/pages/sobre-nos"
+        "url": "https://www.dafnaedery.com.br/pages/sobre-nos"
       },
       {
         "text": "Como Comprar",
-        "url": "/pages/faq"
+        "url": "https://www.dafnaedery.com.br/pages/faq"
       },
       {
         "text": "Frete e Formas de Envio",
-        "url": "/pages/entrega"
+        "url": "https://www.dafnaedery.com.br/pages/entrega"
       },
       {
         "text": "Formas de Pagamento",
-        "url": "/pages/pagamentos"
+        "url": "https://www.dafnaedery.com.br/pages/pagamentos"
       },
       {
         "text": "Onde nos Encontrar",
-        "url": "https://dafnaedery.netlify.app/pages/agenda-eventos"
+        "url": "https://www.dafnaedery.com.br/pages/agenda-eventos"
       },
       {
         "text": " Segurança & Privacidade",
-        "url": "https://dafnaedery.netlify.app/pages/privacidade"
+        "url": "https://www.dafnaedery.com.br/pages/privacidade"
       },
       {
         "text": " Trocas & Devoluções",
-        "url": "https://dafnaedery.netlify.app/pages/trocas"
+        "url": "https://www.dafnaedery.com.br/pages/trocas"
       }
     ]
   },
@@ -52,11 +52,11 @@
   "stamps": [
     {
       "src": "/img/uploads/pix1.png",
-      "link": "https://dafnaedery.netlify.app/pages/pagamentos"
+      "link": "https://www.dafnaedery.com.br/pages/pagamentos"
     },
     {
       "src": "/img/uploads/cartoes.png",
-      "link": "https://dafnaedery.netlify.app/pages/pagamentos"
+      "link": "https://www.dafnaedery.com.br/pages/pagamentos"
     },
     {
       "src": "/img/uploads/seguranca1.png"
