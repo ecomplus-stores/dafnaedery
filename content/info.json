@@ -3,13 +3,13 @@
     "show": true,
     "text": "Entregamos para todo o Brasil",
     "title": "FRETE ESPECIAL, consulte as regras",
-    "link": "/pages/entrega"
+    "link": "https://www.dafnaedery.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "ou Parcele em até 5x sem juros no cartão",
     "title": "Ganhe 5% de desconto no PIX ",
-    "link": "https://dafnaedery.netlify.app/pages/pagamentos"
+    "link": "https://www.dafnaedery.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
