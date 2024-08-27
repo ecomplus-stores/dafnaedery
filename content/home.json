@@ -122,7 +122,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 11,
+      "limit": 12,
       "page": 1,
       "sort": "offers",
       "title": "SALE",
