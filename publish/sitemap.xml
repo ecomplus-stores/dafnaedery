@@ -1940,36 +1940,6 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/destaques</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/carteiras-em-couro-argentina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/carteira-couro-navio</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/carteiras-couro-ziper</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/acessorios-dafna-edery</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/carteiras/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2300,6 +2270,36 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/destaques</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/carteiras-em-couro-argentina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/carteira-couro-navio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/carteiras-couro-ziper</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/acessorios-dafna-edery</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2336,13 +2336,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/pintura-manual</loc>
+      <loc>https://www.dafnaedery.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/pagamentos</loc>
+      <loc>https://www.dafnaedery.com.br/pages/pintura-manual</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2360,13 +2360,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/trocas</loc>
+      <loc>https://www.dafnaedery.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/sobre-nos</loc>
+      <loc>https://www.dafnaedery.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
