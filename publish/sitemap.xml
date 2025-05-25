@@ -2468,6 +2468,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/pages/agenda-eventos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/pages/atacado-revenda</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2492,25 +2498,19 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/agenda-eventos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/privacidade</loc>
+      <loc>https://www.dafnaedery.com.br/pages/pintura-manual</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/pintura-manual</loc>
+      <loc>https://www.dafnaedery.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2540,12 +2540,6 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
@@ -2553,6 +2547,12 @@
   
     <url>
       <loc>https://www.dafnaedery.com.br/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
