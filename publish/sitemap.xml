@@ -1058,7 +1058,7 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/carteira-isadora-com-2-alcas-chocolate-com-cafe</loc>
+      <loc>https://www.dafnaedery.com.br/carteira-isadora-com-2-alcas-chocolate-com-ceramica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2102,6 +2102,42 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/destaques</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/carteiras-em-couro-argentina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/carteira-couro-navio</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/carteiras-couro-ziper</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/acessorios-dafna-edery</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/carteiras/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2432,42 +2468,6 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/destaques</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/carteiras-em-couro-argentina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/carteira-couro-navio</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/carteiras-couro-ziper</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/acessorios-dafna-edery</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/pages/agenda-eventos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2516,12 +2516,6 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/sale</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2534,13 +2528,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/404</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <loc>https://www.dafnaedery.com.br/pages/sale</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/blog</loc>
+      <loc>https://www.dafnaedery.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2552,19 +2546,25 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/admin/index</loc>
+      <loc>https://www.dafnaedery.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/app/index</loc>
+      <loc>https://www.dafnaedery.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
