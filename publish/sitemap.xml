@@ -2642,6 +2642,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/destaques</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2667,12 +2673,6 @@
   
     <url>
       <loc>https://www.dafnaedery.com.br/acessorios-dafna-edery</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
