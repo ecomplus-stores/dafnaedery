@@ -2168,6 +2168,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/pages/atacado-revenda</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2181,12 +2187,6 @@
   
     <url>
       <loc>https://www.dafnaedery.com.br/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/pages/atacado-revenda</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
