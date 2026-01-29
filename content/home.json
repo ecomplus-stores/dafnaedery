@@ -28,8 +28,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/__carteira-doc.webp",
-          "link": "https://www.dafnaedery.com.br/carteiras-doc"
+          "img": "/img/uploads/bagcharm-chaveiro-dafnaedery.webp",
+          "link": "https://dafnaedery.com.br/chaveiro",
+          "alt": "Bag Charm Chaveiro"
         },
         {
           "img": "/img/uploads/pocket.png",
@@ -61,14 +62,19 @@
           "link": "https://www.dafnaedery.com.br/porta-oculos"
         },
         {
-          "img": "/img/uploads/portacelular1.png",
-          "link": "https://www.dafnaedery.com.br/porta-celular"
+          "img": "/img/uploads/portacartoes-dafnaedery.webp",
+          "link": "https://dafnaedery.com.br/porta-cartao",
+          "alt": "Porta Cartões em Couro"
         }
       ]
     },
     {
       "type": "banners-grid",
       "banners": [
+        {
+          "img": "/img/uploads/__carteira-doc.webp",
+          "link": "https://dafnaedery.com.br/carteiras-doc"
+        },
         {
           "img": "/img/uploads/argentina1.png",
           "link": "https://www.dafnaedery.com.br/carteiras-em-couro-argentina"
@@ -80,10 +86,6 @@
         {
           "img": "/img/uploads/__carteira-ziper.webp",
           "link": "https://www.dafnaedery.com.br/carteiras-couro-ziper"
-        },
-        {
-          "img": "/img/uploads/isadora1.png",
-          "link": "https://www.dafnaedery.com.br/carteiras-isadora"
         }
       ]
     },
@@ -91,8 +93,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/acessorios1.png",
-          "link": "https://www.dafnaedery.com.br/acessorios-dafna-edery"
+          "img": "/img/uploads/necessaires-dafnaedery.webp",
+          "link": "https://dafnaedery.com.br/necessaire",
+          "alt": "Necessaires em Couro "
         },
         {
           "img": "/img/uploads/bolsas1.png",
@@ -103,9 +106,34 @@
           "link": "https://dafnaedery.com.br/para-viajar"
         },
         {
-          "img": "/img/uploads/__sale.webp",
-          "link": "https://www.dafnaedery.com.br/sale",
-          "alt": "Sale - Carteiras e Acessórios Artesanais Dafna Edery"
+          "img": "/img/uploads/isadora1.png",
+          "link": "https://dafnaedery.com.br/carteiras-isadora",
+          "alt": "Carteira Isadora em Couro"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/portacelular1.png",
+          "link": "https://dafnaedery.com.br/porta-celular",
+          "alt": "Porta Celular em Couro"
+        },
+        {
+          "img": "/img/uploads/presentes_dafnaedery.webp",
+          "link": "https://dafnaedery.com.br/presentes",
+          "alt": "Presentes em Couro "
+        },
+        {
+          "img": "/img/uploads/maisacessorios_dafnaedery.webp",
+          "link": "https://dafnaedery.com.br/acessorios/",
+          "alt": "Mais Acessórios em Couro"
+        },
+        {
+          "img": "/img/uploads/sale-dafnaedery.webp",
+          "link": "https://dafnaedery.com.br/sale",
+          "alt": "Sale 2026 - Dafna Edery - Carteiras e Acessórios em Couro - Peças Artesanais"
         }
       ]
     },
