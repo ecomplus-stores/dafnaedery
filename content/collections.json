@@ -15,10 +15,6 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "sales"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     }
   ]
 }
