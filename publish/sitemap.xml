@@ -2072,6 +2072,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/porta-passaporte-cacau-c704</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/carteiras/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2474,6 +2480,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/pages/pintura-manual</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2481,12 +2493,6 @@
   
     <url>
       <loc>https://www.dafnaedery.com.br/pages/sale</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/pages/pintura-manual</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2510,15 +2516,15 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
@@ -2528,13 +2534,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/app/index</loc>
+      <loc>https://www.dafnaedery.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/admin/index</loc>
+      <loc>https://www.dafnaedery.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
