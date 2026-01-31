@@ -2084,6 +2084,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/porta-cartao-envelope-azul-royal-c865</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/carteiras/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2450,12 +2456,6 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/atacado-revenda</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/pages/agenda-eventos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2469,6 +2469,12 @@
   
     <url>
       <loc>https://www.dafnaedery.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/pages/atacado-revenda</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
