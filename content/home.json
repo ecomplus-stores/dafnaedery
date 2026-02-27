@@ -152,7 +152,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
+      "sort": "highest_price",
       "title": "SALE",
       "link": "https://www.dafnaedery.com.br/sale",
       "collection_id": "66843f15f4e6d85ab2c1fa86:categories:SALE:/sale"
