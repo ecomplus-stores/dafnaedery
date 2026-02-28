@@ -2378,13 +2378,19 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/marcador-de-paginas-gato-jg-ceramica-gelo-pintura-manual-c114-c269</loc>
+      <loc>https://www.dafnaedery.com.br/marcador-de-paginas-gato-jg-ceramica-abobora-pintura-manual</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
       <loc>https://www.dafnaedery.com.br/marcador-de-paginas-gato-jg-ceramica-gelo-pintura-manual-c114-c269-c321</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/marcador-de-paginas-gato-jg-ceramica-abobora-pintura-manual-c516</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2834,15 +2840,15 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
