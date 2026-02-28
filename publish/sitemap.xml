@@ -2372,7 +2372,7 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/marcador-de-paginas-gato-jg-bandeira-gelo-pintura-manual-c114</loc>
+      <loc>https://www.dafnaedery.com.br/marcador-de-paginas-gato-jg-bandeira-gelo-pintura-manual</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2780,13 +2780,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/entrega</loc>
+      <loc>https://www.dafnaedery.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/faq</loc>
+      <loc>https://www.dafnaedery.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2822,19 +2822,25 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/teste</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/pages/teste</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -2849,12 +2855,6 @@
       <loc>https://www.dafnaedery.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
