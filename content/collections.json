@@ -15,6 +15,19 @@
       "type": "collection-retail",
       "enabled": true,
       "sort": "news"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4>VEJA MAIS</a></h4>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
