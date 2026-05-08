@@ -6,7 +6,7 @@
   "disablePages": true,
   "options": {
     "badgePosition": "INLINE",
-    "dialogPosition": "BOTTOM_TRAY",
+    "dialogPosition": "CENTER_DIALOG",
     "gmcMerchantId": 5691002224
   },
   "stampsAppend": "src/append/stamps"
