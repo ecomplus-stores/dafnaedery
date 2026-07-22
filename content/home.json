@@ -18,13 +18,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/fachada-atualizada-dafna-n.png",
-      "mobile_img": "/img/uploads/fachada-atualizada-dafna.png",
-      "link": "https://www.dafnaedery.com.br/pages/entrega",
-      "alt": "Envio para Todo Brasil veja ofertas especiais"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
