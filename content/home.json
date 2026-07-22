@@ -18,6 +18,12 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fachada-atualizada-dafna-nono.png",
+      "mobile_img": "/img/uploads/fachada-atualizada-dafna-novo.png",
+      "link": "https://dafnaedery.com.br/pages/entrega"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
