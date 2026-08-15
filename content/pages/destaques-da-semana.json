@@ -1,0 +1,100 @@
+{
+  "title": "DESTAQUES DA SEMANA ",
+  "body": "<!--StartFragment-->\n\n<center>\n\nCada carteira e acessório que nós criamos aqui é feito inteiramente à mão, em couro legítimo e com uma pintura manual única.\n Por ser um processo 100% autoral, nenhuma peça é igual à outra .\nSão verdadeiras obras de arte feitas para durar uma vida inteira, com qualidade impecável.</center>",
+  "meta_title": "DESTAQUES DA SEMANA ",
+  "sections": [
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/dafnaedery-carteirascouro-destaques.webp"
+        }
+      ]
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64adc8cb5e606903705f73c5:categories:Pocket:/carteiras-pocket",
+      "link": "https://dafnaedery.com.br/carteiras-pocket",
+      "title": "CARTEIRAS POCKET",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64adc8b25e606903705f73ad:categories:Petit:/carteiras-petit",
+      "sort": "news",
+      "link": "https://dafnaedery.com.br/carteiras-petit",
+      "title": "CARTEIRAS PETIT "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66732471f4e6d85ab2b1d220:categories:Porta Óculos:/porta-oculos",
+      "sort": "sales",
+      "link": "https://dafnaedery.com.br/porta-oculos",
+      "title": "PORTA ÓCULOS"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "66732427f4e6d85ab2b1d19b:categories:Porta Cartão:/porta-cartao",
+      "sort": "sales",
+      "link": "https://dafnaedery.com.br/porta-cartao",
+      "title": "PORTA CARTÃO"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64ad6e365e606903705eaba1:categories:Carteiras Médias:/carteiras-medias",
+      "link": "https://dafnaedery.com.br/carteiras-medias",
+      "title": "CARTEIRAS MÉDIAS",
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "64ad63c25e606903705e9258:categories:Pintura Manual:/pintura-manual/",
+      "sort": "sales",
+      "link": "https://dafnaedery.com.br/pintura-manual/",
+      "title": "PINTURA MANUAL "
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bagcharm_dafnaedery-destaques.jpg",
+          "link": "https://dafnaedery.com.br/chaveiro"
+        },
+        {
+          "img": "/img/uploads/masculinas-dafnaedery-destaques.jpg",
+          "link": "https://dafnaedery.com.br/carteiras-masculinas"
+        },
+        {
+          "img": "/img/uploads/bolsas-dafnaedery-destaques.jpg",
+          "link": "https://dafnaedery.com.br/bolsas/"
+        }
+      ]
+    }
+  ]
+}
