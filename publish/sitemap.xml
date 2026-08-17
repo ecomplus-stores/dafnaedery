@@ -3302,9 +3302,15 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/mini-necessaire-olga-porta-cartao-abobora-c927</loc>
+      <loc>https://www.dafnaedery.com.br/mini-necessaire-olga-porta-cartao-royal</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -3333,12 +3339,6 @@
   
     <url>
       <loc>https://www.dafnaedery.com.br/acessorios-dafna-edery</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -3398,6 +3398,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/pages/sale</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -3405,12 +3411,6 @@
   
     <url>
       <loc>https://www.dafnaedery.com.br/pages/teste</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.dafnaedery.com.br/pages/sale</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
