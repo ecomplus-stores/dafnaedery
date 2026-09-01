@@ -25,10 +25,20 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "64ad63c25e606903705e9258:categories:Pintura Manual:/pintura-manual/",
+      "sort": "news",
+      "link": "https://dafnaedery.com.br/pintura-manual/",
+      "title": "PINTURA MANUAL "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "64adc8cb5e606903705f73c5:categories:Pocket:/carteiras-pocket",
       "link": "https://dafnaedery.com.br/carteiras-pocket",
       "title": "CARTEIRAS POCKET",
-      "sort": "views"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
@@ -36,7 +46,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "64adc8b25e606903705f73ad:categories:Petit:/carteiras-petit",
-      "sort": "news",
+      "sort": "views",
       "link": "https://dafnaedery.com.br/carteiras-petit",
       "title": "CARTEIRAS PETIT "
     },
@@ -46,7 +56,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "66732471f4e6d85ab2b1d220:categories:Porta Óculos:/porta-oculos",
-      "sort": "sales",
+      "sort": "news",
       "link": "https://dafnaedery.com.br/porta-oculos",
       "title": "PORTA ÓCULOS"
     },
@@ -68,17 +78,7 @@
       "collection_id": "64ad6e365e606903705eaba1:categories:Carteiras Médias:/carteiras-medias",
       "link": "https://dafnaedery.com.br/carteiras-medias",
       "title": "CARTEIRAS MÉDIAS",
-      "sort": "sales"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "64ad63c25e606903705e9258:categories:Pintura Manual:/pintura-manual/",
-      "sort": "sales",
-      "link": "https://dafnaedery.com.br/pintura-manual/",
-      "title": "PINTURA MANUAL "
+      "sort": "news"
     },
     {
       "type": "banners-grid",
