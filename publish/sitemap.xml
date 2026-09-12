@@ -2930,25 +2930,25 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/contato</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/faq</loc>
+      <loc>https://www.dafnaedery.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.dafnaedery.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2984,13 +2984,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/trocas</loc>
+      <loc>https://www.dafnaedery.com.br/pages/teste</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/teste</loc>
+      <loc>https://www.dafnaedery.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
