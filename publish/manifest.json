@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5fe2b6c249dfc003e1bc1416b3798375.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.083eb4f5191e3a12050964c804d5e39d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.8e29f0be06fba719429fa14646563d51.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.88a532c1773c6f40ae87e31fd0e26075.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5fd85763f441b223256d628b6b8aa5ec.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Dafna Edery - Carteiras e Acessórios Artesanais em Couro",
+  "short_name": "Dafna Edery - Carteiras e Acessórios Artesanais em Couro",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Dafna Edery - Carteiras e Acessórios Artesanais em Couro . Qualidade impecável e durabilidade excepcional. Feitas à mão no Brasil, elas são verdadeiras obras de arte. Escolha entre uma ampla variedade de cores e modelos exclusivos. Varejo e Atacado.",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
