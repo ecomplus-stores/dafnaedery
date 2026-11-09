@@ -3086,13 +3086,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/atacado-revenda</loc>
+      <loc>https://www.dafnaedery.com.br/pages/agenda-eventos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/agenda-eventos</loc>
+      <loc>https://www.dafnaedery.com.br/pages/atacado-revenda</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3104,13 +3104,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/entrega</loc>
+      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
+      <loc>https://www.dafnaedery.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3122,7 +3122,7 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/privacidade</loc>
+      <loc>https://www.dafnaedery.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3134,7 +3134,7 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/pagamentos</loc>
+      <loc>https://www.dafnaedery.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3170,15 +3170,15 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
