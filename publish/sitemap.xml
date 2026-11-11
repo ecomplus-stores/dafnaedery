@@ -1622,7 +1622,7 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/gata-lia-caramelo-pintura-manual</loc>
+      <loc>https://www.dafnaedery.com.br/gato-caramelo-pintura-manual</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -2726,6 +2726,18 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/gato-acafrao-pintura-manual-c111</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.dafnaedery.com.br/gato-malhado-pintura-manual-c290</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/carteiras/</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3104,13 +3116,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/contato</loc>
+      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
+      <loc>https://www.dafnaedery.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3146,13 +3158,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/sobre-nos</loc>
+      <loc>https://www.dafnaedery.com.br/pages/sale</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/sale</loc>
+      <loc>https://www.dafnaedery.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3194,13 +3206,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/app/index</loc>
+      <loc>https://www.dafnaedery.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/admin/index</loc>
+      <loc>https://www.dafnaedery.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
