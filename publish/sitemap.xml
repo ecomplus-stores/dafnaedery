@@ -3068,6 +3068,12 @@
     </url>
   
     <url>
+      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.dafnaedery.com.br/destaques</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -3098,12 +3104,6 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/dafna_edery</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.dafnaedery.com.br/pages/agenda-eventos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -3116,13 +3116,13 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
+      <loc>https://www.dafnaedery.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/contato</loc>
+      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
