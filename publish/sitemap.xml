@@ -3182,7 +3182,7 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/faq</loc>
+      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -3194,7 +3194,7 @@
     </url>
   
     <url>
-      <loc>https://www.dafnaedery.com.br/pages/destaques-da-semana</loc>
+      <loc>https://www.dafnaedery.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
